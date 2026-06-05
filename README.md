@@ -1,5 +1,3 @@
-Berikut versi **README GitHub yang lebih profesional** untuk project kamu:
-
 ---
 
 # 📊 Project UAS-SD — Graph DSS
@@ -116,9 +114,3 @@ Project-UAS-SD/
 Project ini dibuat untuk keperluan tugas kuliah (UAS).
 
 ---
-
-Kalau kamu mau, aku juga bisa:
-
-* bikin **badge GitHub (Python, Streamlit, dll)**
-* bikin **requirements.txt otomatis**
-* atau sekalian bikin **UI Streamlit biar lebih keren** 👍
