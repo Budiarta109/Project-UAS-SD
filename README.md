@@ -80,7 +80,7 @@ streamlit run app.py
 ```
 Project-UAS-SD/
 │
-├── app.py
+├── index.py
 ├── requirements.txt
 ├── README.md
 ├── data/
