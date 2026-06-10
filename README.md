@@ -47,17 +47,17 @@ requests
 Clone repository ini terlebih dahulu:
 
 ```bash
-git clone https://github.com/username/Project-UAS-SD.git
+git clone https://github.com/Budiarta109/Project-UAS-SD.git
 cd Project-UAS-SD
 ```
 
 Install semua dependency:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
-Jika belum ada `requirements.txt`, bisa install manual:
+Jika belum ada `requirement.txt`, bisa install manual:
 
 ```bash
 pip install streamlit pandas numpy scikit-learn pyvis requests
