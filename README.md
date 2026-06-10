@@ -13,7 +13,7 @@ Aplikasi ini memanfaatkan beberapa library Python untuk pengolahan data, machine
 ## 📁 Demo / Dokumen
 
 * 📄 [Dokumen Laporan](https://github.com/user-attachments/files/28627180/Dokumen.tanpa.judul.pdf)
-* 📽️ [Demo Project](==)
+* 📽️ [Demo Project](https://youtu.be/VORSBu2uUpw)
 * 📽️ [Presentasi Project](https://github.com/user-attachments/files/28627245/presentasi_graph_dss.pptx)
 
 ---
