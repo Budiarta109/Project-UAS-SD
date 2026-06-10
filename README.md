@@ -70,7 +70,7 @@ pip install streamlit pandas numpy scikit-learn pyvis requests
 Jalankan aplikasi Streamlit dengan perintah berikut:
 
 ```bash
-streamlit run app.py
+streamlit run index.py
 ```
 
 ---
