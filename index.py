@@ -164,7 +164,7 @@ st.caption("💡 Petunjuk: Node graf di bawah ini interaktif! Anda dapat mengkli
 kost_net = Network(height="400px", width="100%", bgcolor="#1e293b", font_color="#ffffff", directed=True)
 
 # Generate Skema Warna Berdasarkan Klaster Machine Learning
-# Cluster 0 = Ekonomis, Cluster 1 = Premium, Cluster 2 = Luxury
+# Cluster 0 = Ekonomis, Cluster 1 = Menengah, Cluster 2 = Luxury
 cluster_colors = {0: "#10b981", 1: "#3b82f6", 2: "#a855f7"}
 
 # Tambahkan Node Akar
@@ -172,8 +172,8 @@ kost_net.add_node("Root", label="Pencarian Utama", color="#ef4444", size=25, sha
 
 # Tambahkan Sub-Kriteria Kategori Cluster AI hasil Machine Learning
 kost_net.add_node("C0", label="AI Cluster: Ekonomis", color="#10b981", size=20, shape="ellipse")
-kost_net.add_node("C1", label="AI Cluster: Menengah", color="#3b82f6", size=20, shape="ellipse")
-kost_net.add_node("C2", label="AI Cluster: Premium", color="#a855f7", size=20, shape="ellipse")
+kost_net.add_node("C1", label="AI Cluster: Premium", color="#3b82f6", size=20, shape="ellipse")
+kost_net.add_node("C2", label="AI Cluster: Menengah", color="#a855f7", size=20, shape="ellipse")
 
 kost_net.add_edge("Root", "C0", title="Klasifikasi AI")
 kost_net.add_edge("Root", "C1", title="Klasifikasi AI")
