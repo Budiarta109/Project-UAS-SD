@@ -14,7 +14,8 @@ Aplikasi ini memanfaatkan beberapa library Python untuk pengolahan data, machine
 
 * 📄 [Dokumen Laporan](https://github.com/user-attachments/files/28627180/Dokumen.tanpa.judul.pdf)
 * 📽️ [Demo Project](https://youtu.be/VORSBu2uUpw)
-* 📽️ [Presentasi Project](https://github.com/user-attachments/files/28627245/presentasi_graph_dss.pptx)
+* 📽️ [Presentasi Project](https://github.com/user-attachments/files/28863292/OUR.TIMSES.pdf)
+
 
 ---
 
